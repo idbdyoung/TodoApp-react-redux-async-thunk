@@ -24,13 +24,7 @@ const TodoListContainer = () => {
   }, [dispatch]);
 
   if (loading) return '로딩중';
-  if (error) return (
-    <>
-    {
-      console.log(error)
-    }
-    </>
-  );
+  if (error) console.log(error);
   if (!todos) return null;
   return (
     <TodoList

@@ -82,8 +82,6 @@ const todos = (state = initialState, action) => {
     case FETCH_TODOS_ERROR:
       return {
         ...state,
-        loading: false,
-        todos: null,
         error: action.error,
       };
     default:

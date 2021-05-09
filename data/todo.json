@@ -1,1 +1,1 @@
-[{"id":4,"checked":false,"text":"5번 할 일","color":"blue"},{"id":5,"checked":true,"text":"6번 할 일","color":"navy"},{"id":6,"checked":false,"text":"추가된 할 일","color":"green"}]
+[{"id":4,"checked":true,"text":"5번 할 일","color":"blue"},{"id":5,"checked":false,"text":"6번 할 일","color":"navy"},{"id":6,"checked":false,"text":"추가된 할 일","color":"green"}]
