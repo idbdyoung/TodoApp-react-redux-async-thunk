@@ -3,6 +3,8 @@
 
 redux와 redux-thunk를 사용한 Todo App입니다.
 
+클라이언트와 서버 모두 포함된 monolith application입니다.
+
 ## Features
 
 
@@ -24,7 +26,7 @@ npm install
 ## Execution
 
 
-client와 server모두 구현 되어 있으며, 각각
+client와 server 각각
 
 3000, 3001번 포트를 사용하고 있습니다.
 
