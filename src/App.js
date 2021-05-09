@@ -5,7 +5,7 @@ import styled from 'styled-components';
 
 import Header from './components/Header';
 import Footer from './components/Footer';
-import TodoList from './components/TodoList';
+import TodoListContainer from './containers/TodoListContainer';
 import AddTodo from './components/AddTodo';
 
 const Container = styled.div`
@@ -20,7 +20,7 @@ function App() {
         <Route
           exact
           path='/'
-          component={TodoList}
+          component={TodoListContainer}
         />
         <Route
           path='/todo/add'
