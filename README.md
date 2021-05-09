@@ -1,12 +1,10 @@
 # Todo-App (redux-thunk)
 
----
 
 redux와 redux-thunk를 사용한 Todo App입니다.
 
 ## Features
 
----
 
 - TodoList 보여주기
 - Todo 추가하기
@@ -16,7 +14,6 @@ redux와 redux-thunk를 사용한 Todo App입니다.
 
 ## I**nstallation**
 
----
 
 ```
 git clone https://github.com/idbdyoung/react-todo-app-redux-async.git
@@ -26,7 +23,6 @@ npm install
 
 ## Execution
 
----
 
 client와 server모두 구현 되어 있으며, 각각
 
@@ -58,7 +54,6 @@ npm start
 
 ## Tech Stack
 
----
 
 **Front-End**
 
