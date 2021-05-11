@@ -8,7 +8,7 @@ import {
   getTodos,
   deleteTodo,
   checkTodo,
-} from '../reducers/todos';
+} from '../store/todos';
 
 const TodoListContainer = () => {
   const { todos, loading, error } = useSelector(state => state.todos);
