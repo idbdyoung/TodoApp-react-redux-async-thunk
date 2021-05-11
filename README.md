@@ -18,8 +18,8 @@ redux와 redux-thunk를 사용한 Todo App입니다.
 
 
 ```
-git clone https://github.com/idbdyoung/react-todo-app-redux-async.git
-cd react-todo-app-redux-async
+git clone https://github.com/idbdyoung/react-todo-app-redux.git
+cd react-todo-app-redux
 npm install
 ```
 
