@@ -1,4 +1,4 @@
-# Todo-App (redux-thunk)
+# Todo-App redux-async-thunk
 
 
 redux와 redux-thunk를 사용한 Todo App입니다.
